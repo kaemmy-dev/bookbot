@@ -1,2 +1,1 @@
-# bookbot
-boot.dev first repo
+BookBot is my first git project!
